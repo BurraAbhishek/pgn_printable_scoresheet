@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pgn_printable_scoresheet/static/css/main.c3566286.css",
+    "main.js": "/pgn_printable_scoresheet/static/js/main.33f73489.js",
+    "static/js/303.7ddf9fba.chunk.js": "/pgn_printable_scoresheet/static/js/303.7ddf9fba.chunk.js",
+    "static/js/262.13e79843.chunk.js": "/pgn_printable_scoresheet/static/js/262.13e79843.chunk.js",
+    "static/js/50.18ef4b06.chunk.js": "/pgn_printable_scoresheet/static/js/50.18ef4b06.chunk.js",
+    "static/js/787.e3bc1384.chunk.js": "/pgn_printable_scoresheet/static/js/787.e3bc1384.chunk.js",
+    "index.html": "/pgn_printable_scoresheet/index.html",
+    "main.c3566286.css.map": "/pgn_printable_scoresheet/static/css/main.c3566286.css.map",
+    "main.33f73489.js.map": "/pgn_printable_scoresheet/static/js/main.33f73489.js.map",
+    "303.7ddf9fba.chunk.js.map": "/pgn_printable_scoresheet/static/js/303.7ddf9fba.chunk.js.map",
+    "262.13e79843.chunk.js.map": "/pgn_printable_scoresheet/static/js/262.13e79843.chunk.js.map",
+    "50.18ef4b06.chunk.js.map": "/pgn_printable_scoresheet/static/js/50.18ef4b06.chunk.js.map",
+    "787.e3bc1384.chunk.js.map": "/pgn_printable_scoresheet/static/js/787.e3bc1384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3566286.css",
+    "static/js/main.33f73489.js"
+  ]
+}
