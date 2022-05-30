@@ -4,9 +4,9 @@ Generate printable PDFs of PGN scoresheets of chess games
 This website is accessible using GitHub Pages: https://burraabhishek.github.io/pgn_printable_scoresheet/
 
 # Source code and Privacy policy
-The [source code](https://github.com/BurraAbhishek/pgn_printable_scoresheet) can be viewed by scrolling up. The privacy policy is coming soon.
+The [source code](https://github.com/BurraAbhishek/pgn_printable_scoresheet) can be viewed by scrolling up. 
 
-All user-submitted data is processed in the client-side only.
+This website generates printable scoresheets (in PDF format) of chess games from PGN text provided by you, and downloads the PDF file (generated.pdf) to your local computer. All these actions are performed within your browser itself - the PGN text is not submitted to any server.
 
 ## License
 
@@ -15,9 +15,6 @@ at your option).
 When you use pgn_printable_scoresheet for your website, your combined work may be
 distributed only under the GPL or the AGPL. 
 **You must release your source code** to the users of your website.
-
-If you haven't changed anything, you're already compliant, 
-because the source code can be accessed from the website itself.
 
 Please read more about GPL for JavaScript on [greendrake.info](https://greendrake.info/publications/js-gpl).
 
